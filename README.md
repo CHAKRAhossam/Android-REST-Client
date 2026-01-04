@@ -6,7 +6,7 @@ Application Android permettant de consommer un service REST pour gérer des comp
 
 ## 🎬 Démo
 
-[![Demo Video](https://img.shields.io/badge/▶️-Voir_la_démo-red?style=for-the-badge)](https://www.youtube.com/watch?v=VOTRE_VIDEO_ID)
+https://github.com/user-attachments/assets/839f68f0-e61f-4cf4-8aa8-58d150a07b6c
 
 ## 📋 Fonctionnalités
 
